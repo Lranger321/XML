@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flowerList>
+    <flower>
+        <id>1</id>
+        <name>Роза</name>
+        <class>Розовые</class>
+        <avg_height>60 см</avg_height>
+        <flowered>true</flowered>
+        <extra_info>Основные или маточные, ветви и ветви с законченным ростом и пять типов однолетних побегов
+        </extra_info>
+    </flower>
+    <flower>
+        <id>2</id>
+        <name>Земляника</name>
+        <class>Розовые</class>
+        <avg_height>13 см</avg_height>
+        <flowered>true</flowered>
+        <extra_info>Листья тройчатые, сложной формы, на длинных, достигающих высоты в 10 см стебельках</extra_info>
+    </flower>
+    <flower>
+        <id>3</id>
+        <name>Шиповник</name>
+        <class>Розовые</class>
+        <avg_height>20 см</avg_height>
+        <flowered>true</flowered>
+        <extra_info>Розой в ботанической литературе часто называют и сам шиповник</extra_info>
+    </flower>
+    <flower>
+        <id>4</id>
+        <name>Фиалка</name>
+        <class>Фиалковые</class>
+        <avg_height>8 см</avg_height>
+        <flowered>true</flowered>
+        <extra_info>Пурпурный оттенок, и фиолетовыми цветками</extra_info>
+    </flower>
+    <flower>
+        <id>5</id>
+        <name>Гигантская лилия</name>
+        <class>Лилейные</class>
+        <avg_height>300 см</avg_height>
+        <flowered>true</flowered>
+        <extra_info>Луковицы её бывают величиной почти с человеческую голову</extra_info>
+    </flower>
+</flowerList>
