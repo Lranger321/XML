@@ -26,23 +26,23 @@
             <price>60</price>
             <seler>Корж А.С</seler>
         </sales>
-        <sales flower_id="1" sale_id="2">
-            <date>10.02.2021</date>
+        <sales flower_id="4" sale_id="2">
+            <date>9.02.2021</date>
             <price>60</price>
             <seler>Корж А.С</seler>
         </sales>
         <sales flower_id="3" sale_id="3">
-            <date>10.02.2021</date>
+            <date>11.02.2021</date>
             <price>60</price>
             <seler>Антонов М.А.</seler>
         </sales>
         <sales flower_id="1" sale_id="4">
-            <date>10.02.2021</date>
+            <date>12.02.2021</date>
             <price>60</price>
             <seler>Корж А.С</seler>
         </sales>
         <sales flower_id="2" sale_id="5">
-            <date>10.02.2021</date>
+            <date>13.02.2021</date>
             <price>60</price>
             <seler>Шибаева Т.Н.</seler>
         </sales>
