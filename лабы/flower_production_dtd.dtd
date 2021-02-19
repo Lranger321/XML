@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!ELEMENT flower_class_list (class*,flower_production)>
+
+        <!ELEMENT class (type,price)>
+        <!ATTLIST class flower_class_id ID #REQUIRED>
+        <!ELEMENT type (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+
+        <!ELEMENT flower_production (sale*)>
+        <!ELEMENT sale (date,sale_price,seler)>
+        <!ATTLIST sale
+                flower_id IDREFS #REQUIRED
+                sale_id ID #REQUIRED>
+        <!ELEMENT date (#PCDATA)>
+        <!ELEMENT sale_price (#PCDATA)>
+        <!ELEMENT seler (#PCDATA)>

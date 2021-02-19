@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!ELEMENT flowerList (flower*)>
+        <!ELEMENT flower (id,name,
+                class,
+                avg_height,
+                flowered,
+                extra_info)>
+        <!ELEMENT id (#PCDATA)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT class (#PCDATA)>
+        <!ELEMENT avg_height (#PCDATA)>
+        <!ELEMENT flowered (#PCDATA)>
+        <!ELEMENT extra_info (#PCDATA)>
