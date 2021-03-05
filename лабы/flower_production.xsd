@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema targetNamespace="FLOWER_PRODUCTION" attributeFormDefault="qualified" elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="flower_class_list" type="loc:flower_class_listType"  xmlns:loc="FLOWER_PRODUCTION"/>
+  <xs:complexType name="classType">
+    <xs:sequence>
+      <xs:element name="type"/>
+      <xs:element name="price"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="flower_class_id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="saleType">
+    <xs:sequence>
+      <xs:element name="date" type="xs:date"/>
+      <xs:element type="xs:string" name="sale_price"/>
+      <xs:element name="seller" type="xs:normalizedString"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="flower_id" use="required"/>
+    <xs:attribute type="xs:string" name="sale_id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="flower_productionType">
+    <xs:sequence>
+      <xs:element type="loc:saleType" name="sale" maxOccurs="unbounded" minOccurs="0"  xmlns:loc="FLOWER_PRODUCTION"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="flower_class_listType">
+    <xs:sequence>
+      <xs:element type="loc:classType" name="class" maxOccurs="unbounded" minOccurs="0"  xmlns:loc="FLOWER_PRODUCTION"/>
+      <xs:element type="loc:flower_productionType" name="flower_production"  xmlns:loc="FLOWER_PRODUCTION"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

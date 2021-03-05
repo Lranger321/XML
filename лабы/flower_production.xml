@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE flower_class_list SYSTEM "flower_production_dtd.dtd">
-<flower_class_list>
+<flower_class_list xmlns="FLOWER_PRODUCTION">
     <class flower_class_id="f1">
         <type>Роза</type>
         <price>30-90</price>
@@ -23,29 +23,29 @@
     </class>
     <flower_production>
         <sale flower_id="f1 f3" sale_id="s1">
-            <date>10.02.2021</date>
+            <date>2021-02-01</date>
             <sale_price>60</sale_price>
-            <seler>Корж А.С</seler>
+            <seller>Корж А.С</seller>
         </sale>
         <sale flower_id="f4" sale_id="s2">
-            <date>9.02.2021</date>
+            <date>2021-02-09</date>
             <sale_price>60</sale_price>
-            <seler>Корж А.С</seler>
+            <seller>Корж А.С</seller>
         </sale>
         <sale flower_id="f3 f1 f2" sale_id="s3">
-            <date>11.02.2021</date>
+            <date>2021-02-11</date>
             <sale_price>60</sale_price>
-            <seler>Антонов М.А.</seler>
+            <seller>Антонов М.А.</seller>
         </sale>
         <sale flower_id="f1 f4 f2" sale_id="s4">
-            <date>12.02.2021</date>
+            <date>2021-02-12</date>
             <sale_price>60</sale_price>
-            <seler>Корж А.С</seler>
+            <seller>Корж А.С</seller>
         </sale>
         <sale flower_id="f2" sale_id="s5">
-            <date>13.02.2021</date>
+            <date>2021-02-13</date>
             <sale_price>60</sale_price>
-            <seler>Шибаева Т.Н.</seler>
+            <seller>Шибаева Т.Н.</seller>
         </sale>
     </flower_production>
 </flower_class_list>
