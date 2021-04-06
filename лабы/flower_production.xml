@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE flower_class_list SYSTEM "flower_production_dtd.dtd">
-<flower_class_list xmlns="FLOWER_PRODUCTION">
+<?xml-stylesheet type="text/xsl" href="FlowerProduction.xsl"?>
+<flower_class_list>
+    <classes>
     <class flower_class_id="f1">
         <type>Роза</type>
         <price>30-90</price>
@@ -21,6 +22,7 @@
         <type>Гигантская лилия</type>
         <price>120-200</price>
     </class>
+    </classes>
     <flower_production>
         <sale flower_id="f1 f3" sale_id="s1">
             <date>2021-02-01</date>
