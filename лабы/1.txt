@@ -1,53 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-stylesheet type="text/xsl" href="FlowerProduction.xsl"?>
+<!DOCTYPE flower_class_list SYSTEM "flower_production_dtd.dtd">
 <flower_class_list>
-    <classes>
     <class flower_class_id="f1">
-        <type>Роза</type>
+        <type>Р РѕР·Р°</type>
         <price>30-90</price>
     </class>
     <class flower_class_id="f2">
-        <type>Пион</type>
+        <type>РџРёРѕРЅ</type>
         <price>60-81</price>
     </class>
     <class flower_class_id="f3">
-        <type>Шиповник</type>
+        <type>РЁРёРїРѕРІРЅРёРє</type>
         <price>40-50</price>
     </class>
     <class flower_class_id="f4">
-        <type>Фиалка</type>
+        <type>Р¤РёР°Р»РєР°</type>
         <price>20-80</price>
     </class>
     <class flower_class_id="f5">
-        <type>Гигантская лилия</type>
+        <type>Р“РёРіР°РЅС‚СЃРєР°СЏ Р»РёР»РёСЏ</type>
         <price>120-200</price>
     </class>
-    </classes>
     <flower_production>
         <sale flower_id="f1 f3" sale_id="s1">
-            <date>2021-02-01</date>
+            <date>10.02.2021</date>
             <sale_price>60</sale_price>
-            <seller>Корж А.С</seller>
+            <seler>РљРѕСЂР¶ Рђ.РЎ</seler>
         </sale>
         <sale flower_id="f4" sale_id="s2">
-            <date>2021-02-09</date>
-            <sale_price>57</sale_price>
-            <seller>Корж А.С</seller>
+            <date>9.02.2021</date>
+            <sale_price>60</sale_price>
+            <seler>РљРѕСЂР¶ Рђ.РЎ</seler>
         </sale>
         <sale flower_id="f3 f1 f2" sale_id="s3">
-            <date>2021-02-11</date>
-            <sale_price>30</sale_price>
-            <seller>Антонов М.А.</seller>
+            <date>11.02.2021</date>
+            <sale_price>60</sale_price>
+            <seler>РђРЅС‚РѕРЅРѕРІ Рњ.Рђ.</seler>
         </sale>
         <sale flower_id="f1 f4 f2" sale_id="s4">
-            <date>2021-02-12</date>
+            <date>12.02.2021</date>
             <sale_price>60</sale_price>
-            <seller>Корж А.С</seller>
+            <seler>РљРѕСЂР¶ Рђ.РЎ</seler>
         </sale>
         <sale flower_id="f2" sale_id="s5">
-            <date>2021-02-13</date>
+            <date>13.02.2021</date>
             <sale_price>60</sale_price>
-            <seller>Шибаева Т.Н.</seller>
+            <seler>РЁРёР±Р°РµРІР° Рў.Рќ.</seler>
         </sale>
     </flower_production>
 </flower_class_list>

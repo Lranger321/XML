@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE flowerList SYSTEM "flower.dtd">
+<flowerList>
+    <flower>
+        <id>1</id>
+        <name>Р РѕР·Р°</name>
+        <class>Р РѕР·РѕРІС‹Рµ</class>
+        <avg_height>60 СЃРј</avg_height>
+        <flowered>true</flowered>
+        <extra_info>РћСЃРЅРѕРІРЅС‹Рµ РёР»Рё РјР°С‚РѕС‡РЅС‹Рµ, РІРµС‚РІРё Рё РІРµС‚РІРё СЃ Р·Р°РєРѕРЅС‡РµРЅРЅС‹Рј СЂРѕСЃС‚РѕРј Рё РїСЏС‚СЊ С‚РёРїРѕРІ РѕРґРЅРѕР»РµС‚РЅРёС… РїРѕР±РµРіРѕРІ
+        </extra_info>
+    </flower>
+    <flower>
+        <id>2</id>
+        <name>Р—РµРјР»СЏРЅРёРєР°</name>
+        <class>Р РѕР·РѕРІС‹Рµ</class>
+        <avg_height>13 СЃРј</avg_height>
+        <flowered>true</flowered>
+        <extra_info>Р›РёСЃС‚СЊСЏ С‚СЂРѕР№С‡Р°С‚С‹Рµ, СЃР»РѕР¶РЅРѕР№ С„РѕСЂРјС‹, РЅР° РґР»РёРЅРЅС‹С…, РґРѕСЃС‚РёРіР°СЋС‰РёС… РІС‹СЃРѕС‚С‹ РІ 10 СЃРј СЃС‚РµР±РµР»СЊРєР°С…</extra_info>
+    </flower>
+    <flower>
+        <id>3</id>
+        <name>РЁРёРїРѕРІРЅРёРє</name>
+        <class>Р РѕР·РѕРІС‹Рµ</class>
+        <avg_height>20 СЃРј</avg_height>
+        <flowered>true</flowered>
+        <extra_info>Р РѕР·РѕР№ РІ Р±РѕС‚Р°РЅРёС‡РµСЃРєРѕР№ Р»РёС‚РµСЂР°С‚СѓСЂРµ С‡Р°СЃС‚Рѕ РЅР°Р·С‹РІР°СЋС‚ Рё СЃР°Рј С€РёРїРѕРІРЅРёРє</extra_info>
+    </flower>
+    <flower>
+        <id>4</id>
+        <name>Р¤РёР°Р»РєР°</name>
+        <class>Р¤РёР°Р»РєРѕРІС‹Рµ</class>
+        <avg_height>8 СЃРј</avg_height>
+        <flowered>true</flowered>
+        <extra_info>РџСѓСЂРїСѓСЂРЅС‹Р№ РѕС‚С‚РµРЅРѕРє, Рё С„РёРѕР»РµС‚РѕРІС‹РјРё С†РІРµС‚РєР°РјРё</extra_info>
+    </flower>
+    <flower>
+        <id>5</id>
+        <name>Р“РёРіР°РЅС‚СЃРєР°СЏ Р»РёР»РёСЏ</name>
+        <class>Р›РёР»РµР№РЅС‹Рµ</class>
+        <avg_height>300 СЃРј</avg_height>
+        <flowered>true</flowered>
+        <extra_info>Р›СѓРєРѕРІРёС†С‹ РµС‘ Р±С‹РІР°СЋС‚ РІРµР»РёС‡РёРЅРѕР№ РїРѕС‡С‚Рё СЃ С‡РµР»РѕРІРµС‡РµСЃРєСѓСЋ РіРѕР»РѕРІСѓ</extra_info>
+    </flower>
+</flowerList>
